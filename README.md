@@ -13,11 +13,11 @@
 **Github:** felisio
 
 ##About me
-Desenvoledor front-end com mais de 10 anos de experiencia, sempre focado nos estudos e na busca ao conhecimento. O que mais amo na minha profissão é o fato de sempre estar descobrindo e aprendendo coisas novas. 
+Desenvoledor front-end com mais de 10 anos de experiencia, sempre focado nos estudos e na busca do conhecimento. O que mais amo na minha profissão é o fato de sempre estar descobrindo e aprendendo coisas novas. 
 
-Trabalhar em equipe se torna a peça fundamental para o sucesso de um projeto, e como lider de um time sempre procuro passar o espirito de que juntos sempre iremos conquistar cada vez mais.
+Trabalhar em equipe se torna a peça fundamental para o sucesso de um projeto, e como líder de um time sempre procuro passar o espírito de que juntos sempre iremos conquistar cada vez mais.
 
-Assim como amo aprender, tambem amo ensinar e tenho como a segunda profissão Professor de graduação, nos meus tempos livres amo ficar com minha familia.
+Assim como amo aprender, também amo ensinar e tenho como a segunda profissão Professor de graduação, nos meus tempos livres amo ficar com minha família.
 
 ##Skills
 
