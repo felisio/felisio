@@ -13,6 +13,7 @@
 **Github:** felisio
 
 ##About me
+
 Desenvoledor front-end com mais de 10 anos de experiencia, sempre focado nos estudos e na busca do conhecimento. O que mais amo na minha profissão é o fato de sempre estar descobrindo e aprendendo coisas novas. 
 
 Trabalhar em equipe se torna a peça fundamental para o sucesso de um projeto, e como líder de um time sempre procuro passar o espírito de que juntos sempre iremos conquistar cada vez mais.
@@ -23,18 +24,19 @@ Assim como amo aprender, também amo ensinar e tenho como a segunda profissão P
 
 * HTML5 
 * Responsive Design (Mobile First)
-* CSS (Sass, Less)
+* CSS (Sass, Less, Stylus, PostCSS)
 * Css Frameworks (Bootstrap, SUI - Senai User Interface)
-* Javascript (OO, Funcional, ES2015, Jquery, AngularJS, Knockoutjs, Backbonejs, ReactJS, Design Patterns, Tests)
-* Grunt - Gulp - Yeoman
-* NodeJS (Express)
+* Javascript (OO, Funcional, ES6, React, React Native, Vue.js, AngularJS, Design Patterns, Tests)
+* WebPack
+* Gulp - Yeoman
+* NodeJS
 * Git
-* PHP (OO, Laravel, ZendFramework, Wordpress, Moodle)
-* C# (MVC5, WebAPI)
-* JAVA (J2EE, Servlet)
+* PHP
+* C# (WebAPI)
+* JAVA (Android)
 * Python (Django)
 * SQLServer - Postgresql - MongoDB
-* TDD and Continuous Integration
+* TDD
 * Scrum and Kanban
 
 
