@@ -18,3 +18,12 @@
   <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felisio&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+<div> 
+  <a href = "mailto:fabio.elisio@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/f%C3%A1bio-el%C3%ADsio-3483a92b/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>     
+</div>
