@@ -1,6 +1,5 @@
 ### Hi, I'm Fabio Elisio 👽
 
-**E-mail:** fabio.elisio@gmail.com
 
 
 **Languages and Tools:**  
